@@ -1,0 +1,6 @@
+
+node_modules
+.tmp
+.htaccess
+bower_components
+.idea
