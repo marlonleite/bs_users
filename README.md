@@ -5,8 +5,8 @@ Template bootstrap 4 para login e registro de usuários
 
 Execute o cmd:
 
-'''code
+```code
 npm install
-'''
+```
 
 
